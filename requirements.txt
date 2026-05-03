@@ -1,0 +1,22 @@
+# Core
+numpy
+faiss-cpu
+pdfplumber
+pickle-mixin
+
+# OpenAI / LLM
+openai
+
+# NLP Metrics
+nltk
+rouge-score
+bert-score
+
+# Optional but useful for research
+scikit-learn
+pandas
+tqdm
+
+# Visualization (if you later plot results)
+matplotlib
+seaborn
